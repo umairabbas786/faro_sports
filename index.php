@@ -3,6 +3,7 @@
 <div class="wrapper">
     <?php include "includes/nav.php";?>
 <main>
+<body style="background-color:black;">
       <!-- Home Section -->
       <div class="swiper swiper-container" data-swiper-options='{
                   "slidesPerView": 1,
@@ -20,16 +21,19 @@
                     "disableOnInteraction": false
                   }
                 }'>
-        <div class="swiper-wrapper">
+        <div class="swiper-wrapper" >
           <div class="swiper-slide">
             <div class="bg-no-repeat bg-cover bg-center"
               style="background-image: url(assets/img/fashion/home-banner-1.jpg);">
               <div class="container">
                 <div class="row min-vh-85 align-items-center justify-content-center py-12">
                   <div class="col-lg-8 text-center">
-                    <h6 class="fw-lighten text-uppercase text-white mb-3 letter-spacing-6">You're Looking Good</h6>
-                    <h1 class="display-1 fw-lighten text-white letter-spacing-6 text-uppercase">New LookBook</h1>
-                    <div class="pt-3"><a class="btn btn-outline-white" href="#">Discover More</a></div>
+                    <h2 class="fw-lighten text-uppercase text-black mb-3 letter-spacing-6" style="-webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: white;">Welcome To</h2>
+                    <h1 class="display-1 fw-lighten text-black letter-spacing-6 text-uppercase" style="-webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: white;">Faro Sports</h1>
+                    <div class="pt-3"><a class="btn btn-outline-white" style="-webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black; font-size:25px;" href="#">Discover More</a></div>
                   </div>
                 </div>
               </div>
@@ -41,9 +45,12 @@
               <div class="container">
                 <div class="row min-vh-85 align-items-center justify-content-center py-12">
                   <div class="col-lg-8 text-center">
-                    <h6 class="fw-lighten text-uppercase text-white mb-3 letter-spacing-6">You're Looking Good</h6>
-                    <h1 class="display-1 fw-lighten text-white letter-spacing-6 text-uppercase">New LookBook</h1>
-                    <div class="pt-3"><a class="btn btn-outline-white" href="#">Discover More</a></div>
+                  <h2 class="fw-lighten text-uppercase text-black mb-3 letter-spacing-6" style="-webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: white;">Welcome To</h2>
+                    <h1 class="display-1 fw-lighten text-black letter-spacing-6 text-uppercase" style="-webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: white;">Faro Sports</h1>
+                    <div class="pt-3"><a class="btn btn-outline-black" style="-webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black; font-size:25px;" href="#">Discover More</a></div>
                   </div>
                 </div>
               </div>
@@ -64,9 +71,9 @@
                 <div
                   class="position-absolute w-100 h-100 d-flex align-items-center justify-content-center top-0 left-0">
                   <div class="w-100 text-center">
-                    <h6 class="text-uppercase fw-lighten text-white mb-3">NEW IN</h6>
-                    <h3 class="fw-lighten h3 text-white">WOMEN’S</h3>
-                    <div class="pt-3"><a class="btn btn-white btn-sm" href="#">Shop Now</a></div>
+                    <h6 class="text-uppercase fw-lighten text-white mb-3">Sports</h6>
+                    <h3 class="fw-lighten h3 text-white">Wear</h3>
+                    <div class="pt-3"><a class="btn btn-white btn-sm" href="#">Discover Now</a></div>
                   </div>
                 </div>
               </div>
@@ -77,9 +84,9 @@
                 <div
                   class="position-absolute w-100 h-100 d-flex align-items-center justify-content-center top-0 left-0">
                   <div class="w-100 text-center">
-                    <h6 class="text-uppercase fw-lighten text-white mb-3">NEW IN</h6>
-                    <h3 class="fw-lighten h3 text-white">WOMEN’S</h3>
-                    <div class="pt-3"><a class="btn btn-white btn-sm" href="#">Shop Now</a></div>
+                    <h6 class="text-uppercase fw-lighten text-white mb-3">Sports</h6>
+                    <h3 class="fw-lighten h3 text-white">Gear</h3>
+                    <div class="pt-3"><a class="btn btn-white btn-sm" href="#">Discover Now</a></div>
                   </div>
                 </div>
               </div>
@@ -90,8 +97,8 @@
                 <div
                   class="position-absolute w-100 h-100 d-flex align-items-center justify-content-center top-0 left-0">
                   <div class="w-100 text-center">
-                    <h6 class="text-uppercase fw-lighten text-white mb-3">NEW IN</h6>
-                    <h3 class="fw-lighten h3 text-white">WOMEN’S</h3>
+                    <h6 class="text-uppercase fw-lighten text-white mb-3">Sports</h6>
+                    <h3 class="fw-lighten h3 text-white">Accessories</h3>
                     <div class="pt-3"><a class="btn btn-white btn-sm" href="#">Shop Now</a></div>
                   </div>
                 </div>

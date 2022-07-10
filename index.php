@@ -1,11 +1,12 @@
 <?php include "includes/header.php";?>
 
 <div class="wrapper">
-    <?php include "includes/nav.php";?>
-<main>
-<body style="background-color:black;">
+  <?php include "includes/nav.php";?>
+  <main>
+
+    <body style="background-color:black;">
       <!-- Home Section -->
-      <div id="particles-js">
+      <div id="particles-js" style="position:absolute;z-index:999;height:85vh;"></div>
       <div class="swiper swiper-container" data-swiper-options='{
                   "slidesPerView": 1,
                   "spaceBetween": 0,
@@ -22,7 +23,7 @@
                     "disableOnInteraction": false
                   }
                 }'>
-        <div class="swiper-wrapper" >
+        <div class="swiper-wrapper">
           <div class="swiper-slide">
             <div class="bg-no-repeat bg-cover bg-center"
               style="background-image: url(assets/img/fashion/home-banner-1.jpg);">
@@ -46,7 +47,7 @@
               <div class="container">
                 <div class="row min-vh-85 align-items-center justify-content-center py-12">
                   <div class="col-lg-8 text-center">
-                  <h2 class="fw-lighten text-uppercase text-black mb-3 letter-spacing-6" style="-webkit-text-stroke-width: 2px;
+                    <h2 class="fw-lighten text-uppercase text-black mb-3 letter-spacing-6" style="-webkit-text-stroke-width: 2px;
     -webkit-text-stroke-color: white;">Welcome To</h2>
                     <h1 class="display-1 fw-lighten text-black letter-spacing-6 text-uppercase" style="-webkit-text-stroke-width: 2px;
     -webkit-text-stroke-color: white;">Faro Sports</h1>
@@ -61,7 +62,6 @@
         <div class="swiper-arrow-style-01 swiper-next swiper-next-01"><i class="bi bi-chevron-right"></i></div>
         <div class="swiper-arrow-style-01 swiper-prev swiper-prev-01"><i class="bi bi-chevron-left"></i></div>
         <div class="swiper-pagination swiper-pagination-white"></div>
-              </div>
       </div><!-- End Home Section -->
       <!-- section -->
       <section class="py-3">
@@ -123,14 +123,14 @@
             <div class="col-6 col-md-4 col-lg-3">
               <div class="product-card-1">
                 <div class="product-card-image">
-      
+
                   <div class="product-action"><a href="#" class="btn btn-outline-primary"><i class="fi-heart"></i>
                     </a><a href="#" class="btn btn-outline-primary"><i class="fi-repeat"></i> </a><a
                       data-bs-toggle="modal" data-bs-target="#px-quick-view" href="javascript:void(0)"
                       class="btn btn-outline-primary"><i class="fi-eye"></i></a></div>
-                  <div class="product-media"><a href="#"><img class="img-fluid"
-                        src="assets/img/fashion/product-1.jpg" title="" alt=""></a>
-                    
+                  <div class="product-media"><a href="#"><img class="img-fluid" src="assets/img/fashion/product-1.jpg"
+                        title="" alt=""></a>
+
                   </div>
                 </div>
                 <div class="product-card-info">
@@ -141,7 +141,7 @@
                   <h6 class="product-title"><a href="#">Product Name</a></h6>
                   <div class="product-price"><span class="text-primary">$28.<small>50</small></span> <del
                       class="fs-sm text-muted">$38.<small>50</small></del></div>
-                  
+
                 </div>
               </div>
             </div><!-- End Product Box -->
@@ -149,14 +149,14 @@
             <div class="col-6 col-md-4 col-lg-3">
               <div class="product-card-1">
                 <div class="product-card-image">
-      
+
                   <div class="product-action"><a href="#" class="btn btn-outline-primary"><i class="fi-heart"></i>
                     </a><a href="#" class="btn btn-outline-primary"><i class="fi-repeat"></i> </a><a
                       data-bs-toggle="modal" data-bs-target="#px-quick-view" href="javascript:void(0)"
                       class="btn btn-outline-primary"><i class="fi-eye"></i></a></div>
-                  <div class="product-media"><a href="#"><img class="img-fluid"
-                        src="assets/img/fashion/product-2.jpg" title="" alt=""></a>
-                    
+                  <div class="product-media"><a href="#"><img class="img-fluid" src="assets/img/fashion/product-2.jpg"
+                        title="" alt=""></a>
+
                   </div>
                 </div>
                 <div class="product-card-info">
@@ -167,7 +167,7 @@
                   <h6 class="product-title"><a href="#">Product Name</a></h6>
                   <div class="product-price"><span class="text-primary">$28.<small>50</small></span> <del
                       class="fs-sm text-muted">$38.<small>50</small></del></div>
-                  
+
                 </div>
               </div>
             </div><!-- End Product Box -->
@@ -175,14 +175,14 @@
             <div class="col-6 col-md-4 col-lg-3">
               <div class="product-card-1">
                 <div class="product-card-image">
-      
+
                   <div class="product-action"><a href="#" class="btn btn-outline-primary"><i class="fi-heart"></i>
                     </a><a href="#" class="btn btn-outline-primary"><i class="fi-repeat"></i> </a><a
                       data-bs-toggle="modal" data-bs-target="#px-quick-view" href="javascript:void(0)"
                       class="btn btn-outline-primary"><i class="fi-eye"></i></a></div>
-                  <div class="product-media"><a href="#"><img class="img-fluid"
-                        src="assets/img/fashion/product-3.jpg" title="" alt=""></a>
-                    
+                  <div class="product-media"><a href="#"><img class="img-fluid" src="assets/img/fashion/product-3.jpg"
+                        title="" alt=""></a>
+
                   </div>
                 </div>
                 <div class="product-card-info">
@@ -193,7 +193,7 @@
                   <h6 class="product-title"><a href="#">Product Name</a></h6>
                   <div class="product-price"><span class="text-primary">$28.<small>50</small></span> <del
                       class="fs-sm text-muted">$38.<small>50</small></del></div>
-                  
+
                 </div>
               </div>
             </div><!-- End Product Box -->
@@ -201,14 +201,14 @@
             <div class="col-6 col-md-4 col-lg-3">
               <div class="product-card-1">
                 <div class="product-card-image">
-      
+
                   <div class="product-action"><a href="#" class="btn btn-outline-primary"><i class="fi-heart"></i>
                     </a><a href="#" class="btn btn-outline-primary"><i class="fi-repeat"></i> </a><a
                       data-bs-toggle="modal" data-bs-target="#px-quick-view" href="javascript:void(0)"
                       class="btn btn-outline-primary"><i class="fi-eye"></i></a></div>
-                  <div class="product-media"><a href="#"><img class="img-fluid"
-                        src="assets/img/fashion/product-4.jpg" title="" alt=""></a>
-                    
+                  <div class="product-media"><a href="#"><img class="img-fluid" src="assets/img/fashion/product-4.jpg"
+                        title="" alt=""></a>
+
                   </div>
                 </div>
                 <div class="product-card-info">
@@ -219,7 +219,7 @@
                   <h6 class="product-title"><a href="#">Product Name</a></h6>
                   <div class="product-price"><span class="text-primary">$28.<small>50</small></span> <del
                       class="fs-sm text-muted">$38.<small>50</small></del></div>
-                  
+
                 </div>
               </div>
             </div><!-- End Product Box -->
@@ -227,14 +227,14 @@
             <div class="col-6 col-md-4 col-lg-3">
               <div class="product-card-1">
                 <div class="product-card-image">
-      
+
                   <div class="product-action"><a href="#" class="btn btn-outline-primary"><i class="fi-heart"></i>
                     </a><a href="#" class="btn btn-outline-primary"><i class="fi-repeat"></i> </a><a
                       data-bs-toggle="modal" data-bs-target="#px-quick-view" href="javascript:void(0)"
                       class="btn btn-outline-primary"><i class="fi-eye"></i></a></div>
-                  <div class="product-media"><a href="#"><img class="img-fluid"
-                        src="assets/img/fashion/product-5.jpg" title="" alt=""></a>
-                    
+                  <div class="product-media"><a href="#"><img class="img-fluid" src="assets/img/fashion/product-5.jpg"
+                        title="" alt=""></a>
+
                   </div>
                 </div>
                 <div class="product-card-info">
@@ -245,7 +245,7 @@
                   <h6 class="product-title"><a href="#">Product Name</a></h6>
                   <div class="product-price"><span class="text-primary">$28.<small>50</small></span> <del
                       class="fs-sm text-muted">$38.<small>50</small></del></div>
-                  
+
                 </div>
               </div>
             </div><!-- End Product Box -->
@@ -253,14 +253,14 @@
             <div class="col-6 col-md-4 col-lg-3">
               <div class="product-card-1">
                 <div class="product-card-image">
-      
+
                   <div class="product-action"><a href="#" class="btn btn-outline-primary"><i class="fi-heart"></i>
                     </a><a href="#" class="btn btn-outline-primary"><i class="fi-repeat"></i> </a><a
                       data-bs-toggle="modal" data-bs-target="#px-quick-view" href="javascript:void(0)"
                       class="btn btn-outline-primary"><i class="fi-eye"></i></a></div>
-                  <div class="product-media"><a href="#"><img class="img-fluid"
-                        src="assets/img/fashion/product-6.jpg" title="" alt=""></a>
-                    
+                  <div class="product-media"><a href="#"><img class="img-fluid" src="assets/img/fashion/product-6.jpg"
+                        title="" alt=""></a>
+
                   </div>
                 </div>
                 <div class="product-card-info">
@@ -271,7 +271,7 @@
                   <h6 class="product-title"><a href="#">Product Name</a></h6>
                   <div class="product-price"><span class="text-primary">$28.<small>50</small></span> <del
                       class="fs-sm text-muted">$38.<small>50</small></del></div>
-                  
+
                 </div>
               </div>
             </div><!-- End Product Box -->
@@ -279,14 +279,14 @@
             <div class="col-6 col-md-4 col-lg-3">
               <div class="product-card-1">
                 <div class="product-card-image">
-      
+
                   <div class="product-action"><a href="#" class="btn btn-outline-primary"><i class="fi-heart"></i>
                     </a><a href="#" class="btn btn-outline-primary"><i class="fi-repeat"></i> </a><a
                       data-bs-toggle="modal" data-bs-target="#px-quick-view" href="javascript:void(0)"
                       class="btn btn-outline-primary"><i class="fi-eye"></i></a></div>
-                  <div class="product-media"><a href="#"><img class="img-fluid"
-                        src="assets/img/fashion/product-7.jpg" title="" alt=""></a>
-                    
+                  <div class="product-media"><a href="#"><img class="img-fluid" src="assets/img/fashion/product-7.jpg"
+                        title="" alt=""></a>
+
                   </div>
                 </div>
                 <div class="product-card-info">
@@ -297,7 +297,7 @@
                   <h6 class="product-title"><a href="#">Product Name</a></h6>
                   <div class="product-price"><span class="text-primary">$28.<small>50</small></span> <del
                       class="fs-sm text-muted">$38.<small>50</small></del></div>
-                  
+
                 </div>
               </div>
             </div><!-- End Product Box -->
@@ -305,14 +305,14 @@
             <div class="col-6 col-md-4 col-lg-3">
               <div class="product-card-1">
                 <div class="product-card-image">
-      
+
                   <div class="product-action"><a href="#" class="btn btn-outline-primary"><i class="fi-heart"></i>
                     </a><a href="#" class="btn btn-outline-primary"><i class="fi-repeat"></i> </a><a
                       data-bs-toggle="modal" data-bs-target="#px-quick-view" href="javascript:void(0)"
                       class="btn btn-outline-primary"><i class="fi-eye"></i></a></div>
-                  <div class="product-media"><a href="#"><img class="img-fluid"
-                        src="assets/img/fashion/product-8.jpg" title="" alt=""></a>
-                    
+                  <div class="product-media"><a href="#"><img class="img-fluid" src="assets/img/fashion/product-8.jpg"
+                        title="" alt=""></a>
+
                   </div>
                 </div>
                 <div class="product-card-info">
@@ -323,7 +323,7 @@
                   <h6 class="product-title"><a href="#">Product Name</a></h6>
                   <div class="product-price"><span class="text-primary">$28.<small>50</small></span> <del
                       class="fs-sm text-muted">$38.<small>50</small></del></div>
-                  
+
                 </div>
               </div>
             </div><!-- End Product Box -->
@@ -385,153 +385,153 @@
                         }'>
               <div class="swiper-wrapper">
                 <div class="swiper-slide">
-                <div class="product-card-1">
-                <div class="product-card-image">
-      
-                  <div class="product-action"><a href="#" class="btn btn-outline-primary"><i class="fi-heart"></i>
-                    </a><a href="#" class="btn btn-outline-primary"><i class="fi-repeat"></i> </a><a
-                      data-bs-toggle="modal" data-bs-target="#px-quick-view" href="javascript:void(0)"
-                      class="btn btn-outline-primary"><i class="fi-eye"></i></a></div>
-                  <div class="product-media"><a href="#"><img class="img-fluid"
-                        src="assets/img/fashion/product-1.jpg" title="" alt=""></a>
-                    
-                  </div>
-                </div>
-                <div class="product-card-info">
-                  <div class="product-meta small"><a href="#">Product</a>, <a href="#">type</a></div>
-                  <div class="rating-star text"><i class="bi bi-star-fill active"></i> <i
-                      class="bi bi-star-fill active"></i> <i class="bi bi-star-fill active"></i> <i
-                      class="bi bi-star-fill active"></i> <i class="bi bi-star"></i></div>
-                  <h6 class="product-title"><a href="#">Product Name</a></h6>
-                  <div class="product-price"><span class="text-primary">$28.<small>50</small></span> <del
-                      class="fs-sm text-muted">$38.<small>50</small></del></div>
-                  
-                </div>
-                  </div>
-                </div>
-                <div class="swiper-slide">
-                <div class="product-card-1">
-                <div class="product-card-image">
-      
-                  <div class="product-action"><a href="#" class="btn btn-outline-primary"><i class="fi-heart"></i>
-                    </a><a href="#" class="btn btn-outline-primary"><i class="fi-repeat"></i> </a><a
-                      data-bs-toggle="modal" data-bs-target="#px-quick-view" href="javascript:void(0)"
-                      class="btn btn-outline-primary"><i class="fi-eye"></i></a></div>
-                  <div class="product-media"><a href="#"><img class="img-fluid"
-                        src="assets/img/fashion/product-2.jpg" title="" alt=""></a>
-                    
-                  </div>
-                </div>
-                <div class="product-card-info">
-                  <div class="product-meta small"><a href="#">Product</a>, <a href="#">type</a></div>
-                  <div class="rating-star text"><i class="bi bi-star-fill active"></i> <i
-                      class="bi bi-star-fill active"></i> <i class="bi bi-star-fill active"></i> <i
-                      class="bi bi-star-fill active"></i> <i class="bi bi-star"></i></div>
-                  <h6 class="product-title"><a href="#">Product Name</a></h6>
-                  <div class="product-price"><span class="text-primary">$28.<small>50</small></span> <del
-                      class="fs-sm text-muted">$38.<small>50</small></del></div>
-                  
-                </div>
+                  <div class="product-card-1">
+                    <div class="product-card-image">
+
+                      <div class="product-action"><a href="#" class="btn btn-outline-primary"><i class="fi-heart"></i>
+                        </a><a href="#" class="btn btn-outline-primary"><i class="fi-repeat"></i> </a><a
+                          data-bs-toggle="modal" data-bs-target="#px-quick-view" href="javascript:void(0)"
+                          class="btn btn-outline-primary"><i class="fi-eye"></i></a></div>
+                      <div class="product-media"><a href="#"><img class="img-fluid"
+                            src="assets/img/fashion/product-1.jpg" title="" alt=""></a>
+
+                      </div>
+                    </div>
+                    <div class="product-card-info">
+                      <div class="product-meta small"><a href="#">Product</a>, <a href="#">type</a></div>
+                      <div class="rating-star text"><i class="bi bi-star-fill active"></i> <i
+                          class="bi bi-star-fill active"></i> <i class="bi bi-star-fill active"></i> <i
+                          class="bi bi-star-fill active"></i> <i class="bi bi-star"></i></div>
+                      <h6 class="product-title"><a href="#">Product Name</a></h6>
+                      <div class="product-price"><span class="text-primary">$28.<small>50</small></span> <del
+                          class="fs-sm text-muted">$38.<small>50</small></del></div>
+
+                    </div>
                   </div>
                 </div>
                 <div class="swiper-slide">
-                <div class="product-card-1">
-                <div class="product-card-image">
-      
-                  <div class="product-action"><a href="#" class="btn btn-outline-primary"><i class="fi-heart"></i>
-                    </a><a href="#" class="btn btn-outline-primary"><i class="fi-repeat"></i> </a><a
-                      data-bs-toggle="modal" data-bs-target="#px-quick-view" href="javascript:void(0)"
-                      class="btn btn-outline-primary"><i class="fi-eye"></i></a></div>
-                  <div class="product-media"><a href="#"><img class="img-fluid"
-                        src="assets/img/fashion/product-3.jpg" title="" alt=""></a>
-                    
-                  </div>
-                </div>
-                <div class="product-card-info">
-                  <div class="product-meta small"><a href="#">Product</a>, <a href="#">type</a></div>
-                  <div class="rating-star text"><i class="bi bi-star-fill active"></i> <i
-                      class="bi bi-star-fill active"></i> <i class="bi bi-star-fill active"></i> <i
-                      class="bi bi-star-fill active"></i> <i class="bi bi-star"></i></div>
-                  <h6 class="product-title"><a href="#">Product Name</a></h6>
-                  <div class="product-price"><span class="text-primary">$28.<small>50</small></span> <del
-                      class="fs-sm text-muted">$38.<small>50</small></del></div>
-                  
-                </div>
-                  </div>
-                </div>
-                <div class="swiper-slide">
-                <div class="product-card-1">
-                <div class="product-card-image">
-      
-                  <div class="product-action"><a href="#" class="btn btn-outline-primary"><i class="fi-heart"></i>
-                    </a><a href="#" class="btn btn-outline-primary"><i class="fi-repeat"></i> </a><a
-                      data-bs-toggle="modal" data-bs-target="#px-quick-view" href="javascript:void(0)"
-                      class="btn btn-outline-primary"><i class="fi-eye"></i></a></div>
-                  <div class="product-media"><a href="#"><img class="img-fluid"
-                        src="assets/img/fashion/product-4.jpg" title="" alt=""></a>
-                    
-                  </div>
-                </div>
-                <div class="product-card-info">
-                  <div class="product-meta small"><a href="#">Product</a>, <a href="#">type</a></div>
-                  <div class="rating-star text"><i class="bi bi-star-fill active"></i> <i
-                      class="bi bi-star-fill active"></i> <i class="bi bi-star-fill active"></i> <i
-                      class="bi bi-star-fill active"></i> <i class="bi bi-star"></i></div>
-                  <h6 class="product-title"><a href="#">Product Name</a></h6>
-                  <div class="product-price"><span class="text-primary">$28.<small>50</small></span> <del
-                      class="fs-sm text-muted">$38.<small>50</small></del></div>
-                  
-                </div>
+                  <div class="product-card-1">
+                    <div class="product-card-image">
+
+                      <div class="product-action"><a href="#" class="btn btn-outline-primary"><i class="fi-heart"></i>
+                        </a><a href="#" class="btn btn-outline-primary"><i class="fi-repeat"></i> </a><a
+                          data-bs-toggle="modal" data-bs-target="#px-quick-view" href="javascript:void(0)"
+                          class="btn btn-outline-primary"><i class="fi-eye"></i></a></div>
+                      <div class="product-media"><a href="#"><img class="img-fluid"
+                            src="assets/img/fashion/product-2.jpg" title="" alt=""></a>
+
+                      </div>
+                    </div>
+                    <div class="product-card-info">
+                      <div class="product-meta small"><a href="#">Product</a>, <a href="#">type</a></div>
+                      <div class="rating-star text"><i class="bi bi-star-fill active"></i> <i
+                          class="bi bi-star-fill active"></i> <i class="bi bi-star-fill active"></i> <i
+                          class="bi bi-star-fill active"></i> <i class="bi bi-star"></i></div>
+                      <h6 class="product-title"><a href="#">Product Name</a></h6>
+                      <div class="product-price"><span class="text-primary">$28.<small>50</small></span> <del
+                          class="fs-sm text-muted">$38.<small>50</small></del></div>
+
+                    </div>
                   </div>
                 </div>
                 <div class="swiper-slide">
-                <div class="product-card-1">
-                <div class="product-card-image">
-      
-                  <div class="product-action"><a href="#" class="btn btn-outline-primary"><i class="fi-heart"></i>
-                    </a><a href="#" class="btn btn-outline-primary"><i class="fi-repeat"></i> </a><a
-                      data-bs-toggle="modal" data-bs-target="#px-quick-view" href="javascript:void(0)"
-                      class="btn btn-outline-primary"><i class="fi-eye"></i></a></div>
-                  <div class="product-media"><a href="#"><img class="img-fluid"
-                        src="assets/img/fashion/product-5.jpg" title="" alt=""></a>
-                    
-                  </div>
-                </div>
-                <div class="product-card-info">
-                  <div class="product-meta small"><a href="#">Product</a>, <a href="#">type</a></div>
-                  <div class="rating-star text"><i class="bi bi-star-fill active"></i> <i
-                      class="bi bi-star-fill active"></i> <i class="bi bi-star-fill active"></i> <i
-                      class="bi bi-star-fill active"></i> <i class="bi bi-star"></i></div>
-                  <h6 class="product-title"><a href="#">Product Name</a></h6>
-                  <div class="product-price"><span class="text-primary">$28.<small>50</small></span> <del
-                      class="fs-sm text-muted">$38.<small>50</small></del></div>
-                  
-                </div>
+                  <div class="product-card-1">
+                    <div class="product-card-image">
+
+                      <div class="product-action"><a href="#" class="btn btn-outline-primary"><i class="fi-heart"></i>
+                        </a><a href="#" class="btn btn-outline-primary"><i class="fi-repeat"></i> </a><a
+                          data-bs-toggle="modal" data-bs-target="#px-quick-view" href="javascript:void(0)"
+                          class="btn btn-outline-primary"><i class="fi-eye"></i></a></div>
+                      <div class="product-media"><a href="#"><img class="img-fluid"
+                            src="assets/img/fashion/product-3.jpg" title="" alt=""></a>
+
+                      </div>
+                    </div>
+                    <div class="product-card-info">
+                      <div class="product-meta small"><a href="#">Product</a>, <a href="#">type</a></div>
+                      <div class="rating-star text"><i class="bi bi-star-fill active"></i> <i
+                          class="bi bi-star-fill active"></i> <i class="bi bi-star-fill active"></i> <i
+                          class="bi bi-star-fill active"></i> <i class="bi bi-star"></i></div>
+                      <h6 class="product-title"><a href="#">Product Name</a></h6>
+                      <div class="product-price"><span class="text-primary">$28.<small>50</small></span> <del
+                          class="fs-sm text-muted">$38.<small>50</small></del></div>
+
+                    </div>
                   </div>
                 </div>
                 <div class="swiper-slide">
-                <div class="product-card-1">
-                <div class="product-card-image">
-      
-                  <div class="product-action"><a href="#" class="btn btn-outline-primary"><i class="fi-heart"></i>
-                    </a><a href="#" class="btn btn-outline-primary"><i class="fi-repeat"></i> </a><a
-                      data-bs-toggle="modal" data-bs-target="#px-quick-view" href="javascript:void(0)"
-                      class="btn btn-outline-primary"><i class="fi-eye"></i></a></div>
-                  <div class="product-media"><a href="#"><img class="img-fluid"
-                        src="assets/img/fashion/product-6.jpg" title="" alt=""></a>
-                    
+                  <div class="product-card-1">
+                    <div class="product-card-image">
+
+                      <div class="product-action"><a href="#" class="btn btn-outline-primary"><i class="fi-heart"></i>
+                        </a><a href="#" class="btn btn-outline-primary"><i class="fi-repeat"></i> </a><a
+                          data-bs-toggle="modal" data-bs-target="#px-quick-view" href="javascript:void(0)"
+                          class="btn btn-outline-primary"><i class="fi-eye"></i></a></div>
+                      <div class="product-media"><a href="#"><img class="img-fluid"
+                            src="assets/img/fashion/product-4.jpg" title="" alt=""></a>
+
+                      </div>
+                    </div>
+                    <div class="product-card-info">
+                      <div class="product-meta small"><a href="#">Product</a>, <a href="#">type</a></div>
+                      <div class="rating-star text"><i class="bi bi-star-fill active"></i> <i
+                          class="bi bi-star-fill active"></i> <i class="bi bi-star-fill active"></i> <i
+                          class="bi bi-star-fill active"></i> <i class="bi bi-star"></i></div>
+                      <h6 class="product-title"><a href="#">Product Name</a></h6>
+                      <div class="product-price"><span class="text-primary">$28.<small>50</small></span> <del
+                          class="fs-sm text-muted">$38.<small>50</small></del></div>
+
+                    </div>
                   </div>
                 </div>
-                <div class="product-card-info">
-                  <div class="product-meta small"><a href="#">Product</a>, <a href="#">type</a></div>
-                  <div class="rating-star text"><i class="bi bi-star-fill active"></i> <i
-                      class="bi bi-star-fill active"></i> <i class="bi bi-star-fill active"></i> <i
-                      class="bi bi-star-fill active"></i> <i class="bi bi-star"></i></div>
-                  <h6 class="product-title"><a href="#">Product Name</a></h6>
-                  <div class="product-price"><span class="text-primary">$28.<small>50</small></span> <del
-                      class="fs-sm text-muted">$38.<small>50</small></del></div>
-                  
+                <div class="swiper-slide">
+                  <div class="product-card-1">
+                    <div class="product-card-image">
+
+                      <div class="product-action"><a href="#" class="btn btn-outline-primary"><i class="fi-heart"></i>
+                        </a><a href="#" class="btn btn-outline-primary"><i class="fi-repeat"></i> </a><a
+                          data-bs-toggle="modal" data-bs-target="#px-quick-view" href="javascript:void(0)"
+                          class="btn btn-outline-primary"><i class="fi-eye"></i></a></div>
+                      <div class="product-media"><a href="#"><img class="img-fluid"
+                            src="assets/img/fashion/product-5.jpg" title="" alt=""></a>
+
+                      </div>
+                    </div>
+                    <div class="product-card-info">
+                      <div class="product-meta small"><a href="#">Product</a>, <a href="#">type</a></div>
+                      <div class="rating-star text"><i class="bi bi-star-fill active"></i> <i
+                          class="bi bi-star-fill active"></i> <i class="bi bi-star-fill active"></i> <i
+                          class="bi bi-star-fill active"></i> <i class="bi bi-star"></i></div>
+                      <h6 class="product-title"><a href="#">Product Name</a></h6>
+                      <div class="product-price"><span class="text-primary">$28.<small>50</small></span> <del
+                          class="fs-sm text-muted">$38.<small>50</small></del></div>
+
+                    </div>
+                  </div>
                 </div>
+                <div class="swiper-slide">
+                  <div class="product-card-1">
+                    <div class="product-card-image">
+
+                      <div class="product-action"><a href="#" class="btn btn-outline-primary"><i class="fi-heart"></i>
+                        </a><a href="#" class="btn btn-outline-primary"><i class="fi-repeat"></i> </a><a
+                          data-bs-toggle="modal" data-bs-target="#px-quick-view" href="javascript:void(0)"
+                          class="btn btn-outline-primary"><i class="fi-eye"></i></a></div>
+                      <div class="product-media"><a href="#"><img class="img-fluid"
+                            src="assets/img/fashion/product-6.jpg" title="" alt=""></a>
+
+                      </div>
+                    </div>
+                    <div class="product-card-info">
+                      <div class="product-meta small"><a href="#">Product</a>, <a href="#">type</a></div>
+                      <div class="rating-star text"><i class="bi bi-star-fill active"></i> <i
+                          class="bi bi-star-fill active"></i> <i class="bi bi-star-fill active"></i> <i
+                          class="bi bi-star-fill active"></i> <i class="bi bi-star"></i></div>
+                      <h6 class="product-title"><a href="#">Product Name</a></h6>
+                      <div class="product-price"><span class="text-primary">$28.<small>50</small></span> <del
+                          class="fs-sm text-muted">$38.<small>50</small></del></div>
+
+                    </div>
                   </div>
                 </div>
               </div>
@@ -659,7 +659,7 @@
           </div>
         </div>
       </section><!-- End Privacy Policy -->
-    </main><!-- End Main -->
-<?php include "includes/footer.php";?>
-<script src="assets/js/app.js"></script>
+  </main><!-- End Main -->
+  <?php include "includes/footer.php";?>
+  <script src="assets/js/app.js"></script>
   <script src="assets/js/particles.js"></script>

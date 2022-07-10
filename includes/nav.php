@@ -12,8 +12,7 @@
                                 Mon-Sat
                                 9:00-19:00</span></li>
                         <li class="nav-item"><a href="#" class="navbar-link"><i class="bi bi-headset me-2"></i> Call us
-                                now: +01
-                                035-477-5588</a></li>
+                                now: (+92) 52 33 111 02</a></li>
                     </ul>
                 </div><!-- Right -->
                 <div class="d-flex align-items-center justify-content-center w-100 w-lg-auto">

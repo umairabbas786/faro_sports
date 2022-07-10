@@ -15,7 +15,10 @@
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale
 }
-
+#particles-js {
+   
+    height: 100vh;
+}
 
 .bi-123::before {
     content: "\f67f"

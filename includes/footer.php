@@ -78,6 +78,8 @@
   <script src="assets/vendor/jarallax/jarallax-all.js"></script>
   <script src="assets/js/custom.js"></script>
   <script src="assets/js/theme.js"></script>
+  <script src="assets/js/app.js"></script>
+  <script src="assets/js/particles.js"></script>
 </body>
 
 </html>

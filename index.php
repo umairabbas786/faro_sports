@@ -6,7 +6,7 @@
 
     <body style="background-color:black;">
       <!-- Home Section -->
-      <div id="particles-js" style="position:absolute;z-index:999;height:85vh;"></div>
+      <div id="particles-js" style="position:absolute;z-index:999;height:85vh;width:100%;"></div>
       <div class="swiper swiper-container" data-swiper-options='{
                   "slidesPerView": 1,
                   "spaceBetween": 0,
@@ -68,7 +68,7 @@
         <div class="container-fluid">
           <div class="row g-3">
             <div class="col-lg-4">
-              <div class="position-relative"><img style="width: 90%;" src="assets/img/fashion/shop-banner-1.jpg"
+              <div class="position-relative"><img src="assets/img/fashion/shop-banner-1.jpg"
                   title="" alt="">
                 <div
                   class="position-absolute w-100 h-100 d-flex align-items-center justify-content-center top-0 left-0">
@@ -81,7 +81,7 @@
               </div>
             </div>
             <div class="col-lg-4">
-              <div class="position-relative"><img style="width: 90%;" src="assets/img/fashion/shop-banner-2.jpg"
+              <div class="position-relative"><img src="assets/img/fashion/shop-banner-2.jpg"
                   title="" alt="">
                 <div
                   class="position-absolute w-100 h-100 d-flex align-items-center justify-content-center top-0 left-0">
@@ -94,7 +94,7 @@
               </div>
             </div>
             <div class="col-lg-4">
-              <div class="position-relative"><img style="width: 90%;" src="assets/img/fashion/shop-banner-3.jpg"
+              <div class="position-relative"><img src="assets/img/fashion/shop-banner-3.jpg"
                   title="" alt="">
                 <div
                   class="position-absolute w-100 h-100 d-flex align-items-center justify-content-center top-0 left-0">

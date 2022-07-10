@@ -102,7 +102,24 @@
                                         
                                         </ul>
                                     </div>
-                                
+                                    <div class="col-6 col-md-4 col-lg-2">
+                                        <div class="hover-scale position-relative mb-3">
+                                            <div class="hover-scale-in"><a href="#"><img
+                                                        src="assets/img/fashion3/shop-banner-14.jpg" title=""
+                                                        alt=""></a></div>
+                                            <div class="pt-2 text-center position-absolute bottom-0 start-0 mb-3">
+                                                <h5 class="m-0 h6 bg-white px-3 py-2"><a class="text-reset link-effect"
+                                                        href="#">Accessories</a></h5>
+                                            </div>
+                                        </div>
+                                        <ul class="list-unstyled link-list-style-02">
+                                            <li><a href="#">Socks</a></li>
+                                            <li><a href="#">Bags</a></li>
+                                            <li><a href="#">Flags</a></li>
+                                            <li><a href="#">Masks</a></li>
+                                        
+                                        </ul>
+                                    </div>
                                 
                                     
                                 </div>

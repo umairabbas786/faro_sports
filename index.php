@@ -1,25 +1,29 @@
 <?php include "includes/header.php";?>
-
+<style>
+  .swiper-button-disabled{
+    display:none;   
+}
+</style>
 <div class="wrapper">
   <?php include "includes/nav.php";?>
   <main>
 
     <body style="background-color:black;">
       <!-- Home Section -->
-      <div id="particles-js" style="position:absolute;z-index:999;height:85vh;width:100%;"></div>
+      <div id="particles-js" style="position:absolute;z-index:9;height:85vh;width:100%;"></div>
       <div class="swiper swiper-container" data-swiper-options='{
                   "slidesPerView": 1,
                   "spaceBetween": 0,
                   "pagination": {
                     "el": ".swiper-pagination",
-                    "clickable": true
+                    "clickable": false
                   },
                   "navigation": {
                     "nextEl": ".swiper-next-01",
                     "prevEl": ".swiper-prev-01"
                   },
                   "autoplay": {
-                    "delay": 5000,
+                    "delay": 3000,
                     "disableOnInteraction": false
                   }
                 }'>
@@ -34,8 +38,8 @@
     -webkit-text-stroke-color: white;">Welcome To</h2>
                     <h1 class="display-1 fw-lighten text-black letter-spacing-6 text-uppercase" style="-webkit-text-stroke-width: 2px;
     -webkit-text-stroke-color: white;">Faro Sports</h1>
-                    <div class="pt-3"><a class="btn btn-outline-white" style="-webkit-text-stroke-width: 2px;
-    -webkit-text-stroke-color: black; font-size:25px;" href="#">Discover More</a></div>
+                    <!-- <div class="pt-3"><a class="btn btn-outline-white" style="-webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black; font-size:25px;" href="#">Discover More</a></div> -->
                   </div>
                 </div>
               </div>
@@ -51,16 +55,15 @@
     -webkit-text-stroke-color: white;">Welcome To</h2>
                     <h1 class="display-1 fw-lighten text-black letter-spacing-6 text-uppercase" style="-webkit-text-stroke-width: 2px;
     -webkit-text-stroke-color: white;">Faro Sports</h1>
-                    <div class="pt-3"><a class="btn btn-outline-black" style="-webkit-text-stroke-width: 2px;
-    -webkit-text-stroke-color: black; font-size:25px;" href="#">Discover More</a></div>
+                    <!-- <div class="pt-3"><a class="btn btn-outline-black" style="-webkit-text-stroke-width: 2px;-webkit-text-stroke-color: black; font-size:25px;z-index:999" href="#">Discover More</a></div> -->
                   </div>
                 </div>
               </div>
             </div>
           </div>
         </div>
-        <div class="swiper-arrow-style-01 swiper-next swiper-next-01"><i class="bi bi-chevron-right"></i></div>
-        <div class="swiper-arrow-style-01 swiper-prev swiper-prev-01"><i class="bi bi-chevron-left"></i></div>
+        <!-- <div class="swiper-arrow-style-01 swiper-next swiper-next-01"><i class="bi bi-chevron-right"></i></div>
+        <div class="swiper-arrow-style-01 swiper-prev swiper-prev-01"><i class="bi bi-chevron-left"></i></div> -->
         <div class="swiper-pagination swiper-pagination-white"></div>
       </div><!-- End Home Section -->
       <!-- section -->

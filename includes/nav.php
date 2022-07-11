@@ -39,7 +39,7 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav mx-auto">
                     <li class="nav-item"><a href="index.php" class="nav-link">Home</a></li>
-                    <li class="dropdown dropdown-full nav-item"><a href="production.php" class="nav-link">Products</a> <label
+                    <li class="dropdown dropdown-full nav-item"><a href="products.php" class="nav-link">Products</a> <label
                             class="px-dropdown-toggle mob-menu"></label>
                         <div class="dropdown-menu dropdown-mega-menu py-0">
                             <div class="container-fluid p-3 p-lg-4" style="background-color: black;">

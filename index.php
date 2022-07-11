@@ -78,7 +78,7 @@
                   <div class="w-100 text-center">
                     <h6 class="text-uppercase fw-lighten text-white mb-3">Sports</h6>
                     <h3 class="fw-lighten h3 text-white">Wear</h3>
-                    <div class="pt-3"><a class="btn btn-white btn-sm" href="#">Discover Now</a></div>
+                    <div class="pt-3"><a class="btn btn-white btn-sm" href="products.php">Discover Now</a></div>
                   </div>
                 </div>
               </div>
@@ -91,7 +91,7 @@
                   <div class="w-100 text-center">
                     <h6 class="text-uppercase fw-lighten text-white mb-3">Sports</h6>
                     <h3 class="fw-lighten h3 text-white">Gear</h3>
-                    <div class="pt-3"><a class="btn btn-white btn-sm" href="#">Discover Now</a></div>
+                    <div class="pt-3"><a class="btn btn-white btn-sm" href="products.php">Discover Now</a></div>
                   </div>
                 </div>
               </div>
@@ -104,7 +104,7 @@
                   <div class="w-100 text-center">
                     <h6 class="text-uppercase fw-lighten text-white mb-3">Sports</h6>
                     <h3 class="fw-lighten h3 text-white">Accessories</h3>
-                    <div class="pt-3"><a class="btn btn-white btn-sm" href="#">Discover Now</a></div>
+                    <div class="pt-3"><a class="btn btn-white btn-sm" href="products.php">Discover Now</a></div>
                   </div>
                 </div>
               </div>
@@ -337,7 +337,7 @@
               
               <h3 class="display-2 fw-lighten text-white"style="-webkit-text-stroke-width: 2px;
     -webkit-text-stroke-color: black;">New Exclusive<br>2022 Collection</h3>
-              <div class="pt-4"><a class="btn btn-outline-white" href="#">Discover More</a></div>
+              <div class="pt-4"><a class="btn btn-outline-white" href="products.php">Discover More</a></div>
             </div>
           </div>
         </div>
@@ -551,7 +551,7 @@
                 <h3 class="h1">Get  in touch<br>Now</h3>
                 <h6>For 2022 Collections</h6>
                 <div class="count-down count-down-01 py-4" data-countdown="January 01, 2023 15:00:00"></div>
-                <div><a class="btn btn-primary" href="#">discover Now</a></div>
+                <div><a class="btn btn-primary" href="products.php">discover Now</a></div>
               </div>
             </div>
           </div>

@@ -115,12 +115,7 @@
       <!-- Product section -->
       <section class="section">
         <div class="container">
-          <div class="row justify-content-center section-heading">
-            <div class="col-lg-6 text-center">
-              <p class="fs-6 m-0">Read Today’s News.</p>
-              <h3 class="h2 mt-2">Latest Arrivals</h3>
-            </div>
-          </div>
+          
           <div class="row g-2 g-sm-3 g-lg-4">
             <!-- Product Box -->
             <div class="col-6 col-md-4 col-lg-3">
@@ -564,12 +559,7 @@
       <!-- blog -->
       <section class="section">
         <div class="container">
-          <div class="row justify-content-center mb-4">
-            <div class="col-lg-6 text-center">
-              <h3 class="h2 mb-2">New Blog Posts</h3>
-              <p class="fs-6 m-0">Read Today’s News.</p>
-            </div>
-          </div>
+          
           <div class="row">
             <div class="col-lg-4 my-3">
               <div class="hover-scale text-center">

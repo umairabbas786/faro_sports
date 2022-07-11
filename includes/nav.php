@@ -128,7 +128,7 @@
                     </li>
                     <li class="dropdown nav-item"><a href="#" class="nav-link">About</a> <label
                             class="px-dropdown-toggle mob-menu"></label>
-                        <ul class="dropdown-menu left shadow-lg">
+                        <ul class="dropdown-menu left shadow-lg" style="background-color: black;">
                             <li><a class="dropdown-item" href="../pages/about.html">Our Vision</a></li>
                             <li><a class="dropdown-item" href="../pages/faq.html">Our Values</a></li>
                             <li><a class="dropdown-item" href="../pages/policy.html">Our Production Facility</a></li>

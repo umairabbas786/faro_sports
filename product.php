@@ -104,7 +104,7 @@
               <div class="product-detail pt-4 pt-lg-0">
                 <div class="products-brand pb-2"><span>Brand name</span></div>
                 <div class="products-title mb-2">
-                  <h4 style="color: white;" class="h4">Fine-knit sweater</h4>
+                  <h4 style="color: #CC0000;" class="h4">Fine-knit sweater</h4>
                 </div>
                 <div class="rating-star text small pb-4"><i class="bi bi-star-fill active"></i> <i
                     class="bi bi-star-fill active"></i> <i class="bi bi-star-fill active"></i> <i
@@ -119,7 +119,7 @@
                 
                 
                 <div class="pt-3 border-top mt-3 small">
-                  <p class="theme-link mb-2"><label class="m-0 text-dark">Categories:</label> <a
+                  <p class="theme-link mb-2"><label class="m-0" style="color: #CC0000;">Categories:</label> <a
                       href="#">Sunglasses</a>, <a href="#">Winter</a>, <a href="#">Shorts</a>, <a href="#">Cool</a></p>
                   <p class="theme-link mb-2"><label class="m-0 text-dark">Tags:</label> <a href="#">Fashion</a>, <a
                       href="#">Women</a>, <a href="#">Winter</a></p>

@@ -15,8 +15,8 @@
 
 <body>
     <!-- Preload -->
-    <div id="loading" class="loading-preloader">
+    <div id="loading" class="loading-preloader bg-dark" style="font-size:24px;">
         <div class="spinner-border text-primary" role="status"><span class="visually-hidden">Loading...</span></div>
-    </div><!-- End Preload -->
+    </div><!-- End Preload -->
 
     <div class="wrapper">

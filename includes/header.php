@@ -7,7 +7,7 @@
     <meta name="author" content="pxdraft">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>Home | Fero Sports</title>
-    <link rel="shortcut icon" href="assets/img/favicon.ico">
+    <link rel="shortcut icon" href="assets/img/favicon.png">
     <link href="assets/css/theme.css" rel="stylesheet">
     <script src="https://cdn.jsdelivr.net/npm/feather-icons/dist/feather.min.js"></script>
 

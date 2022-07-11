@@ -334,8 +334,9 @@
         <div class="container">
           <div class="row justify-content-center">
             <div class="col-lg-7 text-center">
-              <h6 class="text-white mb-4">Hurry up! Limited time offer</h6>
-              <h3 class="display-2 fw-lighten text-white">Nw Exclusive<br>2021 Collection</h3>
+              
+              <h3 class="display-2 fw-lighten text-white"style="-webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black;">New Exclusive<br>2022 Collection</h3>
               <div class="pt-4"><a class="btn btn-outline-white" href="#">Discover More</a></div>
             </div>
           </div>
@@ -547,68 +548,17 @@
           <div class="row justify-content-end py-12">
             <div class="col-md-8 col-lg-6 col-xxl-5 py-lg-8">
               <div class="p-4 p-xl-6 bg-white">
-                <h3 class="h1">Get -50% from<br>Summer Collection</h3>
-                <h6>Hurry up! Limited time offer</h6>
+                <h3 class="h1">Get  in touch<br>Now</h3>
+                <h6>For 2022 Collections</h6>
                 <div class="count-down count-down-01 py-4" data-countdown="January 01, 2023 15:00:00"></div>
-                <div><a class="btn btn-primary" href="#">Shop Now</a></div>
+                <div><a class="btn btn-primary" href="#">discover Now</a></div>
               </div>
             </div>
           </div>
         </div>
       </section><!-- End Count Down -->
       <!-- blog -->
-      <section class="section">
-        <div class="container">
-          
-          <div class="row">
-            <div class="col-lg-4 my-3">
-              <div class="hover-scale text-center">
-                <div class="hover-scale-in position-relative"><a href="#"><img class="img-fluid"
-                      src="assets/img/fashion/blog-home-1.jpg" title="" alt=""></a>
-                  <div
-                    class="position-absolute top-0 start-0 mt-3 ms-3 bg-white d-flex flex-column align-items-center px-3 py-2">
-                    <span class="h4 m-0">25</span> <small>MAR</small></div>
-                </div>
-                <div class="pt-3 px-3">
-                  <h5><a class="text-reset" href="#">Make your Marketing website</a></h5>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt</p><a
-                    class="btn btn-sm btn-outline-dark" href="#">Read more</a>
-                </div>
-              </div>
-            </div>
-            <div class="col-lg-4 my-3">
-              <div class="hover-scale text-center">
-                <div class="hover-scale-in position-relative"><a href="#"><img class="img-fluid"
-                      src="assets/img/fashion/blog-home-2.jpg" title="" alt=""></a>
-                  <div
-                    class="position-absolute top-0 start-0 mt-3 ms-3 bg-white d-flex flex-column align-items-center px-3 py-2">
-                    <span class="h4 m-0">25</span> <small>MAR</small></div>
-                </div>
-                <div class="pt-3 px-3">
-                  <h5><a class="text-reset" href="#">Make your Marketing website</a></h5>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt</p><a
-                    class="btn btn-sm btn-outline-dark" href="#">Read more</a>
-                </div>
-              </div>
-            </div>
-            <div class="col-lg-4 my-3">
-              <div class="hover-scale text-center">
-                <div class="hover-scale-in position-relative"><a href="#"><img class="img-fluid"
-                      src="assets/img/fashion/blog-home-3.jpg" title="" alt=""></a>
-                  <div
-                    class="position-absolute top-0 start-0 mt-3 ms-3 bg-white d-flex flex-column align-items-center px-3 py-2">
-                    <span class="h4 m-0">25</span> <small>MAR</small></div>
-                </div>
-                <div class="pt-3 px-3">
-                  <h5><a class="text-reset" href="#">Make your Marketing website</a></h5>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt</p><a
-                    class="btn btn-sm btn-outline-dark" href="#">Read more</a>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section><!-- End blog -->
+      
       <!-- Privacy Policy -->
       <section class="py-5 border-top" style="background-color: #676F67;">
         <div class="container">

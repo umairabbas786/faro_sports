@@ -48,17 +48,7 @@
           </div>
         </div>
       </div>
-      <div class="footer-bottom py-2 footer-border-top light small">
-        <div class="container">
-          <div class="row">
-            <div class="col-md-6 text-center text-md-start py-1">
-              <p class="m-0 text-white-85">© 2022 copyright by <a href="#" class="text-reset">pxdraft</a></p>
-            </div>
-            <div class="col-md-6 text-center text-md-end py-1"><img src="assets/img/payments.png" title="" alt="">
-            </div>
-          </div>
-        </div>
-      </div>
+      
     </footer><!-- End Footer -->
   </div>
   <!-- 

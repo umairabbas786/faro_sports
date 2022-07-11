@@ -33,7 +33,7 @@
     </div><!-- End Header Top -->
     <nav class="navbar navbar-expand-lg navbar-light" style="background-color: #676F67;">
         <div class="container">
-            <!-- Logo --> <a class="navbar-brand" href="index-2.html"><img src="assets/img/logo.png" title="" alt="logo" style="width: 150px;">
+            <!-- Logo --> <a class="navbar-brand" href="index.php"><img src="assets/img/logo.png" title="" alt="logo" style="width: 150px;">
             </a><!-- Logo -->
             <!-- Menu -->
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
@@ -56,15 +56,15 @@
                                             </div>
                                         </div>
                                         <ul class="list-unstyled link-list-style-02">
-                                            <li><a href="#">Football uniforms</a></li>
-                                            <li><a href="#">Basketball Uniforms</a></li>
-                                            <li><a href="#">Baseball Uniforms</a></li>
-                                            <li><a href="#">Boxing Uniforms</a></li>
-                                            <li><a href="#">Cycling Uniforms</a></li>
-                                            <li><a href="#">Running &Athletics</a></li>
-                                            <li><a href="#">MMA Uniforms</a></li>
-                                            <li><a href="#">Paddle Uniforms</a></li>
-                                            <li><a href="#">Tennis Uniforms</a></li>
+                                            <li><a href="view-product.php">Football uniforms</a></li>
+                                            <li><a href="view-product.php">Basketball Uniforms</a></li>
+                                            <li><a href="view-product.php">Baseball Uniforms</a></li>
+                                            <li><a href="view-product.php">Boxing Uniforms</a></li>
+                                            <li><a href="view-product.php">Cycling Uniforms</a></li>
+                                            <li><a href="view-product.php">Running &Athletics</a></li>
+                                            <li><a href="view-product.php">MMA Uniforms</a></li>
+                                            <li><a href="view-product.php">Paddle Uniforms</a></li>
+                                            <li><a href="view-product.php">Tennis Uniforms</a></li>
                                         </ul>
                                     </div>
                                     <div class="col-6 col-md-4 col-lg-2">

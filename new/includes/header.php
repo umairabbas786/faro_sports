@@ -10,7 +10,7 @@
 	<!-- Fav Icon  -->
 	<!-- <link rel="shortcut icon" href="favicon.ico"> -->
     <!-- Fav Icon Main End -->
-    
+
     <!-- Fav Icon Multi -->
     <link rel="apple-touch-icon-precomposed" sizes="57x57" href="favicomatic/apple-touch-icon-57x57.png" />
 	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="favicomatic/apple-touch-icon-114x114.png" />
@@ -32,8 +32,8 @@
 	<meta name="msapplication-square150x150logo" content="mstile-150x150.html" />
 	<meta name="msapplication-wide310x150logo" content="mstile-310x150.html" />
 	<meta name="msapplication-square310x310logo" content="mstile-310x310.html" />
-    
-    
+
+
 	<!-- Site Title  -->
 	<title>Faro Sports</title>
 	<!-- Vendor Bundle CSS -->
@@ -43,8 +43,8 @@
 	<link rel="stylesheet" href="assets/css/themee222.css?ver=142">
 	<link rel="stylesheet" href="assets/css/lith.css"/>
 	<link rel="stylesheet" href="assets/css/responsive.css"/>
-    
-    
+
+
 
 <!--Google Analytics -->
 
@@ -55,39 +55,11 @@ body{
 }
 </style>
 
-	
+
 </head>
 
 <body class="theme-dark is-smooth-effect" data-spy="scroll" data-target="#mainnav" data-offset="80">
-	
-	<!-- Load Facebook SDK for JavaScript -->
-      <div id="fb-root"></div>
-      <script>
-        window.fbAsyncInit = function() {
-          FB.init({
-            xfbml            : true,
-            version          : 'v8.0'
-          });
-        };
-
-        (function(d, s, id) {
-        var js, fjs = d.getElementsByTagName(s)[0];
-        if (d.getElementById(id)) return;
-        js = d.createElement(s); js.id = id;
-        js.src = '../connect.facebook.net/en_US/sdk/xfbml.customerchat.js';
-        fjs.parentNode.insertBefore(js, fjs);
-      }(document, 'script', 'facebook-jssdk'));</script>
-
-      <!-- Your Chat Plugin code -->
-      <div class="fb-customerchat"
-        attribution=setup_tool
-        page_id="408447479960635"
-        theme_color="#0084ff"
-        logged_in_greeting="Have inquiries or concerns? Send us your Contact Details  and we'll get in touch"
-        logged_out_greeting="Have inquiries or concerns? Send us your Contact Details  and we'll get in touch">
-      </div>
-
-	<!-- Header --> 
+	<!-- Header -->
 	<header class="site-header is-sticky mobile-sticky">
 
 		<!-- Place Particle Js -->

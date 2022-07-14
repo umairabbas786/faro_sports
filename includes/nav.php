@@ -143,12 +143,12 @@
                 <div class="nav-item"><a class="nav-link collapsed" data-bs-toggle="collapse" href="javascript:void(0)"
                         data-bs-target="#search-open" aria-expanded="false"><i class="fi-search"></i></a></div>
                 <!-- Acount -->
-                <div class="nav-item dropdown"><a class="nav-link" href="#" role="button" id="dropdown_myaccount"
-                        data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="fi-user"></i></a>
+                <!-- <div class="nav-item dropdown"><a class="nav-link" href="#" role="button" id="dropdown_myaccount"
+                        data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="fi-user"></i></a> -->
                     <div class="dropdown-menu dropdown-menu-end mt-2 shadow" aria-labelledby="dropdown_myaccount"><a
                             class="dropdown-item" href="#">Login</a> <a class="dropdown-item" href="#">Register</a> <a
                             class="dropdown-item" href="#">Wishlist</a> <a class="dropdown-item" href="#">My account</a>
-                    </div>
+                    <!-- </div> -->
                 </div><!-- Wishlist -->
                 <div class="nav-item d-none d-xl-block"><a class="nav-link" href="#"><i class="fi-heart"></i></a></div>
                 <!-- Cart -->

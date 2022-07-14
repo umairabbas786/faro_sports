@@ -67,7 +67,7 @@
         <div class="swiper-pagination swiper-pagination-white"></div>
       </div><!-- End Home Section -->
       <!-- section -->
-      <section class="py-3">
+      <section class="py-3 mt-10">
         <div class="container-fluid">
           <div class="row g-3">
             <div class="col-lg-4">
@@ -560,7 +560,7 @@
       <!-- blog -->
       
       <!-- Privacy Policy -->
-      <section class="py-5 border-top" style="background-color: #676F67;">
+      <section class="py-5 border-top" style="background-color: #333333;">
         <div class="container">
           <div class="row g-3">
             <div class="col-6 col-md-4 col-lg-3">

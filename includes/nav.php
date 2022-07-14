@@ -1,6 +1,6 @@
 <!-- heder height -->
 <div class="header-height-bar" ></div><!-- Header -->
-<header style="background-color: #676F67;" class="header-main header-light fixed-top header-height header-option-1">
+<header style="background-color: #333333;" class="header-main header-light fixed-top header-height header-option-1">
     <!-- Header Top -->
     <div class="header-top header-border-bottom small bg-black small">
         <div class="container">
@@ -31,7 +31,7 @@
             </div>
         </div>
     </div><!-- End Header Top -->
-    <nav class="navbar navbar-expand-lg navbar-light" style="background-color: #676F67;">
+    <nav class="navbar navbar-expand-lg navbar-light" style="background-color: #333333;">
         <div class="container">
             <!-- Logo --> <a class="navbar-brand" href="index.php"><img src="assets/img/logo.png" title="" alt="logo" style="width: 150px;">
             </a><!-- Logo -->

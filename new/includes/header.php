@@ -48,6 +48,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Edu+VIC+WA+NT+Beginner&display=swap');
 body{
 	font-family: 'Edu VIC WA NT Beginner', cursive;
+	font-size:22px;
 }
 </style>
 
@@ -55,8 +56,4 @@ body{
 </head>
 
 <body class="theme-dark is-smooth-effect" data-spy="scroll" data-target="#mainnav" data-offset="80">
-	<!-- Header -->
-	<header class="site-header is-sticky mobile-sticky">
-
-		<!-- Place Particle Js -->
-		<div id="particles-js" class="particles-container particles-js"></div>
+		

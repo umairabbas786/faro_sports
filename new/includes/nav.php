@@ -78,10 +78,9 @@
 
 							</div>
 						</li>
-                        <li class="nav-item"><a class="nav-link menu-link" href="#contact">Let's Work Together</a></li>
 					</ul>
 					<ul class="navbar-nav navbar-btns animated" data-animate="fadeInDown" data-delay="1.15">
-						<li class="nav-item"><a class="nav-link btn btn-sm btn-outline menu-link" href="payment.html">Contact Us</a></li>
+						<li class="nav-item"><a class="nav-link btn btn-sm btn-outline menu-link" href="#">Let's Work Together</a></li>
 
 					</ul>
 				</div>

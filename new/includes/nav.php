@@ -1,10 +1,55 @@
 <!-- Navbar -->
+
+<style>
+	.loader-logo {
+  width: 300px;
+  height: auto;
+  max-width: 90%;
+  overflow: hidden;
+  transform: translatey(0px);
+  -webkit-animation: float 3s ease-in-out infinite;
+          animation: float 3s ease-in-out infinite;
+}
+.loader-logo img {
+  width: 100%;
+  height: auto;
+}
+.loader-logo svg {
+  fill: #fff;
+}
+
+@-webkit-keyframes float {
+  0% {
+    transform: translatey(0px);
+  }
+  50% {
+    transform: translatey(-20px);
+  }
+  100% {
+    transform: translatey(0px);
+  }
+}
+
+@keyframes float {
+  0% {
+    transform: translatey(0px);
+  }
+  50% {
+    transform: translatey(-20px);
+  }
+  100% {
+    transform: translatey(0px);
+  }
+}
+</style>
 <div class="navbar navbar-expand-lg is-transparent" id="mainnav">
 			<nav class="container">
+				<div class="loader-logo">
 				<a class="navbar-brand animated nav-link menu-link d-flex justify-content-center" data-animate="fadeInDown" data-delay=".65" href="#header">
 					<img class=" logo-dark" alt="logo" src="images/logo.png" srcset="images/logo2x.png ">
-					<img style="width: 200px; height:35px;" class="logo logo-light"  alt="logo" src="images/logo-white.png" srcset="images/logo-white.png ">				</a>
-
+					<img style="width: 200px; height:35px;" class="logo logo-light"  alt="logo" src="images/logo-white.png" srcset="images/logo-white.png ">	
+				</a>
+</div>
 				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggle">
 					<span class="navbar-toggler-icon">
 						<span class="ti ti-align-justify"></span>

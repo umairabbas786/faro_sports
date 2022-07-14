@@ -48,15 +48,12 @@
 
 <!--Google Analytics -->
 
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-146575499-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-146575499-1');
-</script>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Edu+VIC+WA+NT+Beginner&display=swap');
+body{
+	font-family: 'Edu VIC WA NT Beginner', cursive;
+}
+</style>
 
 	
 </head>

@@ -1,15 +1,11 @@
 <!DOCTYPE html>
 <html lang="zxx" class="js">
 
-<!-- Mirrored from netcity.ph/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 08 Jun 2022 18:47:10 GMT -->
 <head>
 	<meta charset="utf-8">
-	<meta name="author" content="FastServe-ITSolutions>
+	<meta name="author" content="FastServe-ITSolutions">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<!-- <meta name="description" content="NetCity - Business Internet | Network & Enterprise Solutions"> -->
-	<!-- Fav Icon  -->
-	<!-- <link rel="shortcut icon" href="favicon.ico"> -->
-    <!-- Fav Icon Main End -->
+	
 
     <!-- Fav Icon Multi -->
     <link rel="apple-touch-icon-precomposed" sizes="57x57" href="favicomatic/apple-touch-icon-57x57.png" />

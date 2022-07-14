@@ -140,8 +140,8 @@
             </div><!-- End Menu -->
             <div class="nav flex-nowrap align-items-center header-right">
                 <!-- Nav Search-->
-                <div class="nav-item"><a class="nav-link collapsed" data-bs-toggle="collapse" href="javascript:void(0)"
-                        data-bs-target="#search-open" aria-expanded="false"><i class="fi-search"></i></a></div>
+                <!-- <div class="nav-item"><a class="nav-link collapsed" data-bs-toggle="collapse" href="javascript:void(0)"
+                        data-bs-target="#search-open" aria-expanded="false"><i class="fi-search"></i></a></div> -->
                 <!-- Acount -->
                 <!-- <div class="nav-item dropdown"><a class="nav-link" href="#" role="button" id="dropdown_myaccount"
                         data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="fi-user"></i></a> -->

@@ -48,7 +48,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Edu+VIC+WA+NT+Beginner&display=swap');
 body{
 	font-family: 'Edu VIC WA NT Beginner', cursive;
-	font-size:22px;
+	font-size:18px;
 }
 </style>
 
